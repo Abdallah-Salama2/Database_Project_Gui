@@ -51,3 +51,5 @@ The ADBS is structured to accommodate the complex requirements of airline operat
    ```bash
    git clone https://github.com/your-username/adbs.git
    cd adbs
+2. Use DbBrowser to test database
+   
