@@ -1,6 +1,7 @@
 # Airlines Database System (ADBS)
 
 A detailed overview of the Airlines Database System 
+For More Info Check [Airlines.pdf](https://github.com/Abdallah-Salama2/Database_Project_Gui/blob/main/Airlines_Project/Airlines.pdf)
 ## Introduction
 
 The Airlines Database System (ADBS) is a computerized platform designed to manage airline reservations, flight bookings, passenger information, and related transactions. The system aims to enhance the efficiency of airline operations, reduce errors, and improve customer service.
